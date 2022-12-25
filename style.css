@@ -4,11 +4,11 @@ html{
 
 h1{
     font-size:large
-    font-stretch: normal;
-    text-align: center;
-    text-size-adjust: none;
-    text-decoration: aqua;
-    border-right-width: thick;
+    font-stretch:normal;
+    text-align:center;
+    text-size-adjust:none
+    text-decoration:aqua
+    border-right-width:thick;
 }
 
 
@@ -25,6 +25,7 @@ h3{
 font-size: medium;
 
 }
+
 .important{
 text-align:right
 font-weight: 700;
@@ -60,7 +61,7 @@ img{
     width: 300px;
     paint-order: fill;
     padding-left: calc(right);
-position: relative;right: ;
+position: relative;right: 
     
 }
 
