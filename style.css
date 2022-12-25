@@ -58,7 +58,7 @@ p{
 img{
     border-radius: 50px;
     box-sizing: border-box;
-    width: 300px;
+    width: 30%;
     paint-order: fill;
     padding-left: calc(right);
 position: relative;right: 
@@ -82,6 +82,11 @@ li{
 .video{
 
     font-variation-settings:bold;
+    
+ }
+   
+ figcaption{
+    font-size: larger;
 
-
-}
+    font-style:bold ;color:whitesmoke
+ }
