@@ -1,5 +1,5 @@
 html{
-    background-color:pink
+    background-color::aliceblue
 }
 
 h1{
@@ -81,12 +81,12 @@ li{
 
 .video{
 
-    font-variation-settings:bold;
+    
     
  }
    
  figcaption{
     font-size: larger;
 
-    font-style:bold ;color:whitesmoke
+    font-style:bold ;color::black
  }
